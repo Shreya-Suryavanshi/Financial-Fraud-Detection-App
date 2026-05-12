@@ -1,0 +1,14 @@
+streamlit
+pyspark
+kafka-python
+streamlit-autorefresh
+pandas
+numpy
+scikit-learn
+xgboost
+sqlalchemy
+pymysql
+plotly
+joblib
+python-dotenv
+bcrypt
